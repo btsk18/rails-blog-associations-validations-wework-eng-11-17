@@ -22,6 +22,6 @@ describe Tag do
   #   it 'has many posts' do
   #     expect(tag.posts.count).to eq(1)
   #   end
-  end
+  # end
 
 end
